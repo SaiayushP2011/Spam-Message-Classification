@@ -15,9 +15,7 @@ A Python machine learning project that classifies text messages as **spam** or *
 ## Technologies
 
 * Python
-* Pandas
-* scikit-learn
-* NumPy
+*Pytorch
 
 ## Skills Demonstrated
 
