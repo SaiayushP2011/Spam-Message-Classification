@@ -15,7 +15,7 @@ A Python machine learning project that classifies text messages as **spam** or *
 ## Technologies
 
 * Python
-*Pytorch
+* Pytorch
 
 ## Skills Demonstrated
 
